@@ -47,8 +47,8 @@ plt.scatter(x,y)
 plt.plot(x,y_predicted,color='red')
 plt.show()
 [6,10,2,4,6,7,0,1,8,5,3]
-[82,88,56,64,77,92,23,41,80,59,47
-]![Screenshot 2024-02-22 085857](https://github.com/POZHILANVD/Find-the-best-fit-line-using-Least-Squares-Method/assets/144870498/68b2b09d-6744-4b8f-bd23-7506e7c0c660)
+[82,88,56,64,77,92,23,41,80,59,47]
+![Screenshot 2024-02-22 085857](https://github.com/POZHILANVD/Find-the-best-fit-line-using-Least-Squares-Method/assets/144870498/68b2b09d-6744-4b8f-bd23-7506e7c0c660)
 
 ```
 
